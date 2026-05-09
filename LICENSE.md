@@ -1,4 +1,4 @@
-
+Enhance MacKeeper for macOS with MacKeeper for macOS smart Addon: encryption & vulnerability-scanner, the #1 addon. Includes encryption and vulnerability-scanner for a safer macOS
 
 
 
